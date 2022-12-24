@@ -36,7 +36,7 @@ public class BoundaryLogin {
     @FXML
     public void inserisciCred(){
         controlLogin.inserisciCred(mail.getText(),password.getText());
-
+ciao
     }
 
 }
